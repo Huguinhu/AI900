@@ -82,8 +82,9 @@
 
 # Teste
 ## Após o tempo determinado, consegui realizar o teste com êxito nos pontos de extremidade e consegui o seguinte resultado:
-### 🛑 422.6091407760338 🛑, semelhante à documentação oficial.
+### 🛑 341.2751476584768 🛑, "semelhante" à documentação oficial.
 
 # Segue abaixo uma screenshot do trabalho realizado por ML
-![image](https://github.com/Huguinhu/AI900/assets/144286137/93ddb7e5-adb8-4d67-b0c5-eb7960fac648)
+![image](https://github.com/Huguinhu/AI900/assets/144286137/976db0ef-9581-4640-bdd5-690f7c7f6755)
+
 
